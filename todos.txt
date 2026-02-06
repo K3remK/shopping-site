@@ -1,5 +1,0 @@
-TODO: add Campaign board on top of the main page
-TODO: allow user to add a new campaign to the campaign board
-TODO: make add review popup a little bit nicer
-TODO: product ratings are not dynamicaly calculated fix it!!
-
